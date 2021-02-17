@@ -1,2 +1,2 @@
 # clasaCont
-Tema Clasa Cont 
+Tema este in Package-ul basic. 
